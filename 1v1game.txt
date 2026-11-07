@@ -1,0 +1,104 @@
+player_01: BOB: 4
+player_02: COMPUTER: 2
+winner: BOB: +2
+
+player_01: ALICE: 1
+player_02: COMPUTER: 2
+winner: COMPUTER: +1
+
+player_01: CHARLIE: 1
+player_02: COMPUTER: 0
+winner: CHARLIE: +1
+
+player_01: DAVID: 1
+player_02: COMPUTER: 0
+winner: DAVID: +1
+
+player_01: COMPUTER: 2
+player_02: EVE: 3
+winner: EVE: +1
+
+player_01: ALICE: 23
+player_02: COMPUTER: 1
+winner: ALICE: +22
+
+player_01: DAVID: 3
+player_02: COMPUTER: 4
+winner: COMPUTER: +1
+
+player_01: CHARLIE: 3
+player_02: COMPUTER: 5
+winner: COMPUTER: +2
+
+player_01: BOB: 2
+player_02: COMPUTER: 0
+winner: BOB: +2
+
+player_01: COMPUTER: 2
+player_02: BOB: 3
+winner: BOB: +1
+
+player_01: COMPUTER: 22
+player_02: CHARLIE: 21
+winner: COMPUTER: +1
+
+player_01: FRANK: 1
+player_02: COMPUTER: 2
+winner: COMPUTER: +1
+
+player_01: DAVID: 2
+player_02: COMPUTER: 4
+winner: COMPUTER: +2
+
+player_01: DAVID: 43
+player_02: COMPUTER: 38
+winner: DAVID: +5
+
+player_01: GRACE: 17
+player_02: COMPUTER: 12
+winner: GRACE: +5
+
+player_01: BOB: 0
+player_02: COMPUTER: 1
+winner: COMPUTER: +1
+
+player_01: PLAYER 1: 0
+player_02: COMPUTER: 5
+winner: COMPUTER: +5
+
+player_01: COMPUTER: 0
+player_02: BOB: 6
+winner: BOB: +6
+
+player_01: DAVID: 59
+player_02: COMPUTER: 52
+winner: DAVID: +7
+
+player_01: DAVID: 18
+player_02: COMPUTER: 8
+winner: DAVID: +10
+
+player_01: DAVID: 16
+player_02: COMPUTER: 8
+winner: DAVID: +8
+
+player_01: HEIDI: 5
+player_02: COMPUTER: 9
+winner: COMPUTER: +4
+
+player_01: DAVID: 12
+player_02: COMPUTER: 15
+winner: COMPUTER: +3
+
+player_01: COMPUTER: 0
+player_02: IVAN: 3
+winner: IVAN: +3
+
+player_01: DAVID: 26
+player_02: COMPUTER: 0
+winner: DAVID: +26
+
+player_01: DAVID: 1
+player_02: COMPUTER: 6
+winner: COMPUTER: +5
+
