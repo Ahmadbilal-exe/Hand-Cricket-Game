@@ -64,7 +64,7 @@ int main() {
 			case 1:
 				clear_screen();
 				printf(GREEN"Enter Your Name: "RESET);
-				scanf(" %[^\n]", name);
+				scanf(" %24[^\n]", name);
 				strupr(name);
 				printf(BLUE"%s vs. COMPUTER\n"RESET, name);
 				do{
@@ -92,7 +92,7 @@ int main() {
 			case 2: 
 				clear_screen();
 				printf(GREEN"Enter Your Team Name: " RESET);
-				scanf(" %[^\n]", name);
+				scanf(" %24[^\n]", name);
 				strupr(name);
 				printf(BLUE"%s vs. COMPUTER\n"RESET,name);
 				do{
@@ -424,14 +424,14 @@ void _11vs11innings(char *ply1, char *ply2, int overs) {
         printf(RED"Enter ALL Team Member Names:\n"RESET);
         for(i = 0; i < 11; i++) {
             printf(LIME"[%d]-> "RESET, i+1);
-            scanf(" %[^\n]", team2[i]);
+            scanf(" %24[^\n]", team2[i]);
         }
     } else {
     	
         printf(RED"Enter ALL Team Member Names:\n"RESET);
         for(i = 0; i < 11; i++) {
             printf(LIME"[%d]-> "RESET, i+1);
-            scanf(" %[^\n]", team1[i]);
+			scanf(" %24[^\n]", team1[i]);
         }
         strcpy(team2[0], "PROCESSOR");
         strcpy(team2[1], "CPU");
